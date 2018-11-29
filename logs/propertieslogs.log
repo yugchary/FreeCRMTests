@@ -1,0 +1,233 @@
+[INFO ] 2018-09-01 05:04:45.407 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-01 05:04:49.877 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-01 05:04:56.798 [main] LoginTest - entering application URL
+[WARN ] 2018-09-01 05:04:56.798 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-01 05:04:56.799 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-01 05:04:56.799 [main] LoginTest - this is debug message
+[INFO ] 2018-09-01 05:04:56.826 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-01 05:04:56.828 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-01 05:04:56.861 [main] LoginTest - login page title is--->#1 Free CRM software in the cloud for sales and service
+[INFO ] 2018-09-01 05:04:57.748 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-01 05:09:20.251 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-01 05:09:24.805 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-01 05:09:32.714 [main] LoginTest - entering application URL
+[WARN ] 2018-09-01 05:09:32.714 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-01 05:09:32.714 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-01 05:09:32.714 [main] LoginTest - this is debug message
+[INFO ] 2018-09-01 05:09:32.721 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-01 05:09:32.721 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-01 05:09:32.735 [main] LoginTest - login page title is--->#1 Free CRM software in the cloud for sales and service
+[INFO ] 2018-09-01 05:09:33.498 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-01 05:10:48.793 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-01 05:10:53.186 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-01 05:11:00.133 [main] LoginTest - entering application URL
+[WARN ] 2018-09-01 05:11:00.133 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-01 05:11:00.133 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-01 05:11:00.134 [main] LoginTest - this is debug message
+[INFO ] 2018-09-01 05:11:00.143 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-01 05:11:00.143 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-01 05:11:00.159 [main] LoginTest - login page title is--->#1 Free CRM software in the cloud for sales and service
+[INFO ] 2018-09-01 05:11:01.028 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-01 17:42:42.710 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-01 17:42:47.008 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-01 17:42:55.374 [main] LoginTest - entering application URL
+[WARN ] 2018-09-01 17:42:55.374 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-01 17:42:55.374 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-01 17:42:55.375 [main] LoginTest - this is debug message
+[INFO ] 2018-09-01 17:42:55.382 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-01 17:42:55.383 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-01 17:42:55.398 [main] LoginTest - login page title is--->Google
+[INFO ] 2018-09-01 17:42:56.190 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-01 17:43:19.024 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-01 17:43:23.349 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-01 17:43:30.840 [main] LoginTest - entering application URL
+[WARN ] 2018-09-01 17:43:30.840 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-01 17:43:30.840 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-01 17:43:30.841 [main] LoginTest - this is debug message
+[INFO ] 2018-09-01 17:43:30.854 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-01 17:43:30.854 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-01 17:43:30.876 [main] LoginTest - login page title is--->Google
+[INFO ] 2018-09-01 17:43:31.700 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-01 17:47:39.997 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-01 17:47:43.194 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-01 17:47:45.992 [main] LoginTest - entering application URL
+[WARN ] 2018-09-01 17:47:45.992 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-01 17:47:45.992 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-01 17:47:45.992 [main] LoginTest - this is debug message
+[INFO ] 2018-09-01 17:47:46.001 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-01 17:47:46.001 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-01 17:47:46.014 [main] LoginTest - login page title is--->Google
+[INFO ] 2018-09-01 17:47:46.746 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-02 22:10:30.312 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-02 22:10:35.608 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-02 22:10:36.869 [main] LoginTest - entering application URL
+[WARN ] 2018-09-02 22:10:36.869 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-02 22:10:36.869 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-02 22:10:36.869 [main] LoginTest - this is debug message
+[INFO ] 2018-09-02 22:10:36.875 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-02 22:10:36.875 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-02 22:10:36.887 [main] LoginTest - login page title is--->www.google.co.in
+[INFO ] 2018-09-02 22:10:37.611 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-02 22:13:24.242 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-02 22:13:27.978 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-02 22:13:29.325 [main] LoginTest - entering application URL
+[WARN ] 2018-09-02 22:13:29.325 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-02 22:13:29.325 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-02 22:13:29.325 [main] LoginTest - this is debug message
+[INFO ] 2018-09-02 22:13:29.330 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-02 22:13:29.330 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-02 22:13:29.340 [main] LoginTest - login page title is--->www.google.co.in
+[INFO ] 2018-09-02 22:13:30.123 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-02 22:14:04.358 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-02 22:14:07.959 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-02 22:14:09.272 [main] LoginTest - entering application URL
+[WARN ] 2018-09-02 22:14:09.272 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-02 22:14:09.272 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-02 22:14:09.273 [main] LoginTest - this is debug message
+[INFO ] 2018-09-02 22:14:09.279 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-02 22:14:09.279 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-02 22:14:09.445 [main] LoginTest - login page title is--->www.google.co.in
+[INFO ] 2018-09-02 22:14:10.243 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-02 22:15:23.970 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-02 22:15:27.438 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-02 22:15:28.791 [main] LoginTest - entering application URL
+[WARN ] 2018-09-02 22:15:28.791 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-02 22:15:28.791 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-02 22:15:28.791 [main] LoginTest - this is debug message
+[INFO ] 2018-09-02 22:15:28.797 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-02 22:15:28.797 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-02 22:15:28.807 [main] LoginTest - login page title is--->www.google.co.in
+[INFO ] 2018-09-02 22:15:29.510 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-02 22:18:50.027 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-02 22:18:53.622 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-02 22:18:55.205 [main] LoginTest - entering application URL
+[WARN ] 2018-09-02 22:18:55.205 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-02 22:18:55.205 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-02 22:18:55.205 [main] LoginTest - this is debug message
+[INFO ] 2018-09-02 22:18:55.214 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-02 22:18:55.214 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-02 22:18:55.228 [main] LoginTest - login page title is--->www.google.co.in
+[INFO ] 2018-09-02 22:18:55.965 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-02 22:19:57.038 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-02 22:20:00.548 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-02 22:20:02.154 [main] LoginTest - entering application URL
+[WARN ] 2018-09-02 22:20:02.154 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-02 22:20:02.154 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-02 22:20:02.154 [main] LoginTest - this is debug message
+[INFO ] 2018-09-02 22:20:02.162 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-02 22:20:02.162 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-02 22:20:02.176 [main] LoginTest - login page title is--->www.google.co.in
+[INFO ] 2018-09-02 22:20:02.904 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-03 12:41:23.516 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-03 12:41:27.906 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-03 12:41:29.869 [main] LoginTest - entering application URL
+[WARN ] 2018-09-03 12:41:29.869 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-03 12:41:29.869 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-03 12:41:29.869 [main] LoginTest - this is debug message
+[INFO ] 2018-09-03 12:41:29.876 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-03 12:41:29.876 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-03 12:41:29.888 [main] LoginTest - login page title is--->Google
+[INFO ] 2018-09-03 12:41:30.738 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-09-03 15:28:09.636 [main] LoginTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-09-03 15:28:14.259 [main] LoginTest - launching chrome broswer
+[INFO ] 2018-09-03 15:28:16.145 [main] LoginTest - entering application URL
+[WARN ] 2018-09-03 15:28:16.145 [main] LoginTest - Hey this just a warning message
+[FATAL] 2018-09-03 15:28:16.145 [main] LoginTest - hey this is just fatal error message
+[DEBUG] 2018-09-03 15:28:16.145 [main] LoginTest - this is debug message
+[INFO ] 2018-09-03 15:28:16.151 [main] LoginTest - ****************************** starting test case *****************************************
+[INFO ] 2018-09-03 15:28:16.152 [main] LoginTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-09-03 15:28:16.175 [main] LoginTest - login page title is--->Google
+[INFO ] 2018-09-03 15:28:17.087 [main] LoginTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 20:49:27.325 [main] LoggerTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 20:49:31.177 [main] LoggerTest - launching chrome broswer
+[INFO ] 2018-11-03 20:49:33.825 [main] LoggerTest - entering application URL
+[WARN ] 2018-11-03 20:49:33.826 [main] LoggerTest - Hey this just a warning message
+[FATAL] 2018-11-03 20:49:33.826 [main] LoggerTest - hey this is just fatal error message
+[DEBUG] 2018-11-03 20:49:33.826 [main] LoggerTest - this is debug message
+[INFO ] 2018-11-03 20:49:34.673 [main] LoggerTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 20:49:34.676 [main] LoggerTest - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 20:49:37.909 [main] LoggerTest - launching chrome broswer
+[INFO ] 2018-11-03 20:49:40.392 [main] LoggerTest - entering application URL
+[WARN ] 2018-11-03 20:49:40.392 [main] LoggerTest - Hey this just a warning message
+[FATAL] 2018-11-03 20:49:40.393 [main] LoggerTest - hey this is just fatal error message
+[DEBUG] 2018-11-03 20:49:40.393 [main] LoggerTest - this is debug message
+[INFO ] 2018-11-03 20:49:40.394 [main] LoggerTest - ****************************** starting test case *****************************************
+[INFO ] 2018-11-03 20:49:40.394 [main] LoggerTest - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-11-03 20:49:40.408 [main] LoggerTest - login page title is--->Google
+[INFO ] 2018-11-03 20:49:41.158 [main] LoggerTest - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 20:55:23.332 [main] Logger4j2Test - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 20:55:27.492 [main] Logger4j2Test - launching chrome broswer
+[INFO ] 2018-11-03 20:55:29.677 [main] Logger4j2Test - entering application URL
+[WARN ] 2018-11-03 20:55:29.677 [main] Logger4j2Test - Hey this just a warning message
+[FATAL] 2018-11-03 20:55:29.677 [main] Logger4j2Test - hey this is just fatal error message
+[DEBUG] 2018-11-03 20:55:29.677 [main] Logger4j2Test - this is debug message
+[INFO ] 2018-11-03 20:55:30.447 [main] Logger4j2Test - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 20:55:30.451 [main] Logger4j2Test - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 20:55:33.647 [main] Logger4j2Test - launching chrome broswer
+[INFO ] 2018-11-03 20:55:35.393 [main] Logger4j2Test - entering application URL
+[WARN ] 2018-11-03 20:55:35.393 [main] Logger4j2Test - Hey this just a warning message
+[FATAL] 2018-11-03 20:55:35.393 [main] Logger4j2Test - hey this is just fatal error message
+[DEBUG] 2018-11-03 20:55:35.393 [main] Logger4j2Test - this is debug message
+[INFO ] 2018-11-03 20:55:35.394 [main] Logger4j2Test - ****************************** starting test case *****************************************
+[INFO ] 2018-11-03 20:55:35.395 [main] Logger4j2Test - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-11-03 20:55:35.416 [main] Logger4j2Test - login page title is--->Google
+[INFO ] 2018-11-03 20:55:36.165 [main] Logger4j2Test - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 20:57:47.055 [main] Logger4j2Test - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 20:57:51.052 [main] Logger4j2Test - launching chrome broswer
+[INFO ] 2018-11-03 20:57:53.167 [main] Logger4j2Test - entering application URL
+[WARN ] 2018-11-03 20:57:53.167 [main] Logger4j2Test - Hey this just a warning message
+[FATAL] 2018-11-03 20:57:53.168 [main] Logger4j2Test - hey this is just fatal error message
+[INFO ] 2018-11-03 20:57:53.181 [main] Logger4j2Test - ****************************** starting test case *****************************************
+[INFO ] 2018-11-03 20:57:53.181 [main] Logger4j2Test - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-11-03 20:57:53.222 [main] Logger4j2Test - login page title is--->Google
+[INFO ] 2018-11-03 20:57:54.085 [main] Logger4j2Test - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 20:58:49.006 [main] Logger4j2Test - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 20:58:52.911 [main] Logger4j2Test - launching chrome broswer
+[INFO ] 2018-11-03 20:58:54.933 [main] Logger4j2Test - entering application URL
+[WARN ] 2018-11-03 20:58:54.934 [main] Logger4j2Test - Hey this just a warning message
+[FATAL] 2018-11-03 20:58:54.934 [main] Logger4j2Test - hey this is just fatal error message
+[DEBUG] 2018-11-03 20:58:54.934 [main] Logger4j2Test - this is debug message
+[INFO ] 2018-11-03 20:58:54.939 [main] Logger4j2Test - ****************************** starting test case *****************************************
+[INFO ] 2018-11-03 20:58:54.940 [main] Logger4j2Test - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-11-03 20:58:54.956 [main] Logger4j2Test - login page title is--->Google
+[INFO ] 2018-11-03 20:58:55.698 [main] Logger4j2Test - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 21:01:09.899 [main] Logger4j2Test - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 21:01:13.696 [main] Logger4j2Test - launching chrome broswer
+[INFO ] 2018-11-03 21:01:15.766 [main] Logger4j2Test - entering application URL
+[WARN ] 2018-11-03 21:01:15.766 [main] Logger4j2Test - Hey this just a warning message
+[FATAL] 2018-11-03 21:01:15.766 [main] Logger4j2Test - hey this is just fatal error message
+[DEBUG] 2018-11-03 21:01:15.766 [main] Logger4j2Test - this is debug message
+[INFO ] 2018-11-03 21:01:15.771 [main] Logger4j2Test - ****************************** starting test case *****************************************
+[INFO ] 2018-11-03 21:01:15.771 [main] Logger4j2Test - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-11-03 21:01:15.789 [main] Logger4j2Test - login page title is--->Google
+[INFO ] 2018-11-03 21:01:16.570 [main] Logger4j2Test - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 21:04:17.674 [main] Logger4j2Test - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 21:04:21.554 [main] Logger4j2Test - launching chrome broswer
+[INFO ] 2018-11-03 21:04:23.543 [main] Logger4j2Test - entering application URL
+[WARN ] 2018-11-03 21:04:23.543 [main] Logger4j2Test - Hey this just a warning message
+[FATAL] 2018-11-03 21:04:23.543 [main] Logger4j2Test - hey this is just fatal error message
+[DEBUG] 2018-11-03 21:04:23.543 [main] Logger4j2Test - this is debug message
+[INFO ] 2018-11-03 21:04:23.549 [main] Logger4j2Test - ****************************** starting test case *****************************************
+[INFO ] 2018-11-03 21:04:23.549 [main] Logger4j2Test - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-11-03 21:04:23.569 [main] Logger4j2Test - login page title is--->Google
+[INFO ] 2018-11-03 21:04:24.287 [main] Logger4j2Test - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 21:37:38.552 [main] Logger4j2Test - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 21:37:42.557 [main] Logger4j2Test - launching chrome broswer
+[INFO ] 2018-11-03 21:37:54.492 [main] Logger4j2Test - entering application URL
+[WARN ] 2018-11-03 21:37:54.492 [main] Logger4j2Test - Hey this just a warning message
+[FATAL] 2018-11-03 21:37:54.492 [main] Logger4j2Test - hey this is just fatal error message
+[DEBUG] 2018-11-03 21:37:54.492 [main] Logger4j2Test - this is debug message
+[INFO ] 2018-11-03 21:37:54.498 [main] Logger4j2Test - ****************************** starting test case *****************************************
+[INFO ] 2018-11-03 21:37:54.498 [main] Logger4j2Test - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-11-03 21:37:54.519 [main] Logger4j2Test - login page title is--->Google
+[INFO ] 2018-11-03 21:37:55.034 [main] Logger4j2Test - ****************************** Starting test cases execution  *****************************************
+[INFO ] 2018-11-03 21:37:55.317 [main] Logger4j2Test - ****************************** Browser is closed *****************************************
+[INFO ] 2018-11-03 21:37:59.273 [main] Logger4j2Test - launching chrome broswer
+[INFO ] 2018-11-03 21:38:05.126 [main] Logger4j2Test - entering application URL
+[WARN ] 2018-11-03 21:38:05.126 [main] Logger4j2Test - Hey this just a warning message
+[FATAL] 2018-11-03 21:38:05.127 [main] Logger4j2Test - hey this is just fatal error message
+[DEBUG] 2018-11-03 21:38:05.127 [main] Logger4j2Test - this is debug message
+[INFO ] 2018-11-03 21:38:05.139 [main] Logger4j2Test - ****************************** starting test case *****************************************
+[INFO ] 2018-11-03 21:38:05.139 [main] Logger4j2Test - ****************************** freeCrmTitleTest *****************************************
+[INFO ] 2018-11-03 21:38:05.181 [main] Logger4j2Test - login page title is--->Google
+[INFO ] 2018-11-03 21:38:06.017 [main] Logger4j2Test - ****************************** Browser is closed *****************************************

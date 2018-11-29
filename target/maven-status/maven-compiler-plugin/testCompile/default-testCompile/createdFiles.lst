@@ -1,0 +1,4 @@
+com\crm\qa\testcases\DataProviderConcept.class
+com\crm\qa\testcases\ExportReportFailedScreenShot.class
+com\crm\qa\testcases\LoginPageTest.class
+com\crm\qa\testcases\LoginTest.class
